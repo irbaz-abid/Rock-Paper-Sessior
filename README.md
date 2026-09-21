@@ -1,1 +1,1 @@
-# Rock-Paper-Sessior
+Rock Paper Sessior Game
